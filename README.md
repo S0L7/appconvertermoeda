@@ -19,3 +19,11 @@ Este é um aplicativo simples de conversão de moeda, desenvolvido utilizando Re
 - **Node.js** (versão 14 ou superior)
 - **Expo CLI**: Para rodar o app no seu dispositivo ou emulador.
 - **Conta na Expo**: Opcional para publicar o aplicativo.
+
+### Informações do desenvolvedor 
+- **Nome:** Samara Stéfani da Silva
+- **Curso:** Tecnico em Desenvolvimento de Sistemas
+- **Instituição de ensino:** Etec Euro Albino de Souza
+
+
+  
